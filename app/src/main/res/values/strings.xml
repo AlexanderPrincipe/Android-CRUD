@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQlite</string>
+    <string name="txt_codigo">Código del producto</string>
+    <string name="txt_descripcion">Descripcion del producto</string>
+    <string name="txt_precio">Precio del producto</string>
+    <string name="BotonRegistrar">Registrar producto</string>
+    <string name="BotonBuscar">Buscar producto</string>
+    <string name="BotonEliminar">Eliminar producto</string>
+    <string name="BotonModificar">Modificar producto</string>
+
+</resources>
